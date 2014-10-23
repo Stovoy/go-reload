@@ -7,6 +7,15 @@
 _obj
 _test
 
+# Idea
+.idea
+bin
+out
+*.iml
+
+# Open Source
+github.com
+
 # Architecture specific extensions/prefixes
 *.[568vq]
 [568vq].out
